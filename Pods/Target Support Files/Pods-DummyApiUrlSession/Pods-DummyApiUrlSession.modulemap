@@ -1,0 +1,6 @@
+framework module Pods_DummyApiUrlSession {
+  umbrella header "Pods-DummyApiUrlSession-umbrella.h"
+
+  export *
+  module * { export * }
+}

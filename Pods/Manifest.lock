@@ -1,0 +1,26 @@
+PODS:
+  - ObjectMapper (3.5.3)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 3.4)
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 8df44e169386d00c0b99f43b2e4a1020151ab79d
+
+COCOAPODS: 1.10.1
