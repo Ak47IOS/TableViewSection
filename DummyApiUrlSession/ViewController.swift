@@ -105,7 +105,8 @@ extension ViewController : UITableViewDataSource, UITableViewDelegate{
     // One cell is enough
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
 //        return 2
-         return itemArr[section].count
+        print("bngng:",itemArr[section].endIndex)
+        return itemArr[section].count
     }
     
     // Cell creation
