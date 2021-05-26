@@ -70,7 +70,7 @@
 
 /* Begin PBXFileReference section */
 		38278326265D411300486AB0 /* DummyApiUrlSession copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DummyApiUrlSession copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		38278327265D411500486AB0 /* DummyApiUrlSession copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "DummyApiUrlSession copy-Info.plist"; path = "/Users/akash/Desktop/DummyApiUrlSession/DummyApiUrlSession copy-Info.plist"; sourceTree = "<absolute>"; };
+		38278327265D411500486AB0 /* DummyApiUrlSession_Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = DummyApiUrlSession_Info.plist; path = /Users/akash/Desktop/DummyApiUrlSession/DummyApiUrlSession_Info.plist; sourceTree = "<absolute>"; };
 		3827832C265D41F300486AB0 /* CopyAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = CopyAssets.xcassets; sourceTree = "<group>"; };
 		386D48152657ED4A0055299A /* CustomSectionHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSectionHeader.swift; sourceTree = "<group>"; };
 		386D48162657ED4A0055299A /* CustomSectionHeader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomSectionHeader.xib; sourceTree = "<group>"; };
@@ -133,7 +133,7 @@
 				387F16D026564F9700D76FC4 /* Assets.xcassets */,
 				387F16D526564F9700D76FC4 /* Info.plist */,
 				3827832C265D41F300486AB0 /* CopyAssets.xcassets */,
-				38278327265D411500486AB0 /* DummyApiUrlSession copy-Info.plist */,
+				38278327265D411500486AB0 /* DummyApiUrlSession_Info.plist */,
 			);
 			path = Target;
 			sourceTree = "<group>";
